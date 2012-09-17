@@ -15,7 +15,15 @@ aaaaaaaaabbbb
 
 
 更新してみる
+<<<<<<< HEAD
 
 
 
 pullする前に更新
+=======
+pullしてからまた更新してcommitしてpush
+
+
+
+
+>>>>>>> 6b61bc572112acb04d9ddcaddc05448f9ab7d9a1
